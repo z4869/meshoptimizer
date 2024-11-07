@@ -2,12 +2,18 @@
 /.idea/
 /.vs/
 /.vscode/
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.user
 
 # Build files
 /build/
 /cmake-build-*/
 /out/
 /gltf/library.wasm
+/bin/
+/bin-int/
 
 # Test files
 /data/
